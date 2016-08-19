@@ -17,6 +17,22 @@ public class RotatedSortedArray {
 		int m = (l+h)/2;
 		int index = -1;
 
+//		One half will be sorted and other half will be rotated sorted
+		/*
+		 * if (el == a[m])
+		 * 		return a[m]
+		 * if (a[l] < a[m])
+		 * 		if (el < a[m])
+		 * 			h = m-1;
+		 * 		else
+		 * 			l = m+1;
+		 * else if (a[m] < a[h])
+		 * 		if (el > a[m])
+		 * 			l = m+1;
+		 * 		else
+		 * 			h = m-1;
+		 */
+
 		while (l<=h) {
 			if (el < a[m]) {
 				if (a[m] > a[h]) {
