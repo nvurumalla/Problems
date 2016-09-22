@@ -29,11 +29,14 @@ public class NoRepeatLongestSubstring {
 					sub = sb.toString();
 					max = sb.length();
 				}
-				i = map.get(sarray[i]) + 1;
+//				i = map.get(sarray[i]) + 1;
+//				sb.delete(0, sb.length());
+//				sb.append(sarray[i]);
+//				map.clear();
+//				map.put(sarray[i], i);
+				i = map.get(sarray[i]);
 				sb.delete(0, sb.length());
-				sb.append(sarray[i]);
 				map.clear();
-				map.put(sarray[i], i);
 			}
 		}
 		return sub;

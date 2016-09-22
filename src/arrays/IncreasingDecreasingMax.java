@@ -16,6 +16,10 @@ public class IncreasingDecreasingMax {
 		int h = input.length - 1;
 		int m = (l+h)/2;
 		while (l <= h) {
+			if (l==h) {
+				return input[l];
+			}
+			m = (l+h)/2;
 			if (m == 0 && input[m] > input[m+1]) {
 				return input[m];
 			}

@@ -31,9 +31,9 @@ public class BST {
 			}
 		}
 		if (data < temp.getData()) {
-			root.setLeft(node);
+			temp.setLeft(node);
 		} else {
-			root.setRight(node);
+			temp.setRight(node);
 		}
 	}
 }
