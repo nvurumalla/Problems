@@ -8,6 +8,10 @@ public class SingleLinkedList {
 		return this.head;
 	}
 
+	public void setHead(SingleLinkedListNode head) {
+		this.head = head;
+	}
+
 	public void addNode(int data) {
 		SingleLinkedListNode newNode = new SingleLinkedListNode(data);
 		SingleLinkedListNode node = this.head;
