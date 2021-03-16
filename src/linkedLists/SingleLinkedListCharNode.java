@@ -1,26 +1,26 @@
 package linkedLists;
 
 public class SingleLinkedListCharNode {
-	private char data;
-	private SingleLinkedListCharNode next;
+    private char data;
+    private SingleLinkedListCharNode next;
 
-	public SingleLinkedListCharNode(char data) {
-		this.data = data;
-	}
+    public SingleLinkedListCharNode(char data) {
+        this.data = data;
+    }
 
-	public char getData() {
-		return data;
-	}
+    public char getData() {
+        return data;
+    }
 
-	public void setData(char data) {
-		this.data = data;
-	}
+    public void setData(char data) {
+        this.data = data;
+    }
 
-	public SingleLinkedListCharNode getNext() {
-		return next;
-	}
+    public SingleLinkedListCharNode getNext() {
+        return next;
+    }
 
-	public void setNext(SingleLinkedListCharNode next) {
-		this.next = next;
-	}
+    public void setNext(SingleLinkedListCharNode next) {
+        this.next = next;
+    }
 }

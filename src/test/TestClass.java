@@ -2,23 +2,23 @@ package test;
 
 public class TestClass {
 
-	private int i;
-	private int j;
+    private int i;
+    private int j;
 
-	public int getI() {
-		return i;
-	}
+    public int getI() {
+        return i;
+    }
 
-	public void setI(int i) {
-		this.i = i;
-	}
+    public void setI(int i) {
+        this.i = i;
+    }
 
-	public int getJ() {
-		return j;
-	}
+    public int getJ() {
+        return j;
+    }
 
-	public void setJ(int j) {
-		this.j = j;
-	}
+    public void setJ(int j) {
+        this.j = j;
+    }
 
 }

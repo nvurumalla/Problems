@@ -2,26 +2,26 @@ package linkedLists;
 
 public class SingleLinkedListNode {
 
-	private int data;
-	private SingleLinkedListNode next;
+    private int data;
+    private SingleLinkedListNode next;
 
-	public SingleLinkedListNode(int data) {
-		this.data = data;
-	}
+    public SingleLinkedListNode(int data) {
+        this.data = data;
+    }
 
-	public int getData() {
-		return data;
-	}
+    public int getData() {
+        return data;
+    }
 
-	public void setData(int data) {
-		this.data = data;
-	}
+    public void setData(int data) {
+        this.data = data;
+    }
 
-	public SingleLinkedListNode getNext() {
-		return next;
-	}
+    public SingleLinkedListNode getNext() {
+        return next;
+    }
 
-	public void setNext(SingleLinkedListNode next) {
-		this.next = next;
-	}
+    public void setNext(SingleLinkedListNode next) {
+        this.next = next;
+    }
 }

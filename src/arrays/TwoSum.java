@@ -4,21 +4,21 @@ import java.util.HashMap;
 
 public class TwoSum {
 
-	public static void main(String[] args) {
-		int[] input = {1,3,-3,4};
-		int sum = 0;
-		int[] output = twoSum(input, sum);
-		if (output == null) {
-			System.out.println("No indices found");
-		} else {
-			for (int i : output) {
-				System.out.println("index is " + i + "... value is " + input[i]);
-			}
-		}
-	}
+    public static void main(String[] args) {
+        int[] input = {1, 3, -3, 4};
+        int sum = 0;
+        int[] output = twoSum(input, sum);
+        if (output == null) {
+            System.out.println("No indices found");
+        } else {
+            for (int i : output) {
+                System.out.println("index is " + i + "... value is " + input[i]);
+            }
+        }
+    }
 
-	private static int[] twoSum(int[] input, int sum) {
-		int[] output = new int[2];
+    private static int[] twoSum(int[] nums, int target) {
+        int[] output = new int[2];
 
 //		O(n2)
 //		for (int i = 0; i < input.length; i++) {
@@ -50,17 +50,17 @@ public class TwoSum {
 
 
 //		O(n)
-		HashMap<Integer, Integer> inputMap = new HashMap<Integer, Integer>();
-		for (int i = 0; i < input.length; i++) {
-			if (inputMap.containsKey(sum-input[i])) {
-				output[0] = i;
-				output[1] = inputMap.get(sum-input[i]);
-				return output;
-			} else {
-				inputMap.put(input[i], i);
-			}
-		}
-		return null;
-	}
+        HashMap<Integer, Integer> inputMap = new HashMap<Integer, Integer>();
+        for (int i = 0; i < nums.length; i++) {
+            if (inputMap.containsKey(target - nums[i])) {
+                output[0] = i;
+                output[1] = inputMap.get(target - nums[i]);
+                return output;
+            } else {
+                inputMap.put(nums[i], i);
+            }
+        }
+        return null;
+    }
 
 }

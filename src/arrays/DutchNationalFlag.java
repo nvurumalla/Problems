@@ -8,7 +8,7 @@ public class DutchNationalFlag {
         int pivot = a[index];
         int lower = 0;
         int equal = 0;
-        int upper = a.length-1;
+        int upper = a.length - 1;
 
         while (equal < upper) {
             if (a[equal] < pivot) {
@@ -30,11 +30,15 @@ public class DutchNationalFlag {
     }
 
     public static void main(String[] args) {
-        int[] a = {0,1,2,0,1,1,0,2,2};
-        dutchNationFlag(4 ,a);
+        int[] a = {0, 1, 2, 0, 1, 1, 0, 2, 2};
+        dutchNationFlag(4, a);
 
-        for (int i:a) {
-            System.out.print(i);
+        if (a == null || a.length == 0) {
+            System.out.println("Array is null or empty!!");
+        } else {
+            for (int i : a) {
+                System.out.print(i);
+            }
         }
     }
 }

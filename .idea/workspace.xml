@@ -1,31 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="281fedc2-7484-4bea-9fb5-ff868adc080d" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="281fedc2-7484-4bea-9fb5-ff868adc080d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/DutchNationalFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/DutchNationalFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/IncreasingDecreasingMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/IncreasingDecreasingMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/MaxProductSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MaxProductSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/MaxSumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MaxSumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/MeetingCalender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MeetingCalender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/RotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/RotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/RotatedSortedArrayRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/RotatedSortedArrayRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/TwoSum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/AddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/DoubleLinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/DoubleLinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/GroupReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/GroupReversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListCharNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListCharNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/SingleLinkedListReversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/TestDoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/TestDoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedLists/TestSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedLists/TestSingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stacksAndQueues/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacksAndQueues/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/IsomorphicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/IsomorphicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/LongestStringWith2UniqueChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/LongestStringWith2UniqueChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/NoRepeatLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/NoRepeatLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/ReverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/ReverseVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/ValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/ValidParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/DetectBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/DetectBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/Node.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arrays/DutchNationalFlag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,13 +55,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/arrays/DutchNationalFlag.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -54,71 +65,81 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="140" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="907" />
-  </component>
+  <component name="ProjectId" id="1hbUZQfyNmm9oueZbzyG78PKz6k" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Solve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Solve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Solve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Problems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.DutchNationalFlag" />
+  <component name="RunManager" selected="Application.WinGame">
+    <configuration name="ComparatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.ComparatorImpl" />
+      <module name="Solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HourGlass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.HourGlass" />
+      <module name="Solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedListToBalancedBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trees.SortedListToBalancedBST" />
+      <module name="Solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="Solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WinGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.WinGame" />
       <module name="Solve" />
       <extension name="coverage">
         <pattern>
@@ -132,9 +153,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DutchNationalFlag" />
+        <item itemvalue="Application.WinGame" />
+        <item itemvalue="Application.HourGlass" />
+        <item itemvalue="Application.ComparatorImpl" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SortedListToBalancedBST" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -146,59 +183,171 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559604752669</updated>
-      <workItem from="1559604758854" duration="892000" />
+      <workItem from="1559604758854" duration="1830000" />
+      <workItem from="1561049647986" duration="11834000" />
+      <workItem from="1563475651669" duration="5111000" />
+      <workItem from="1563988371307" duration="467000" />
+      <workItem from="1600279342073" duration="10781000" />
+      <workItem from="1602110446465" duration="1369000" />
+      <workItem from="1603145627088" duration="2634000" />
+      <workItem from="1603409313630" duration="575000" />
+      <workItem from="1603646340532" duration="912000" />
+      <workItem from="1604863457674" duration="780000" />
+      <workItem from="1608919271053" duration="5874000" />
+      <workItem from="1609270161904" duration="4661000" />
+      <workItem from="1611104422385" duration="16516000" />
+      <workItem from="1612293566986" duration="176000" />
+      <workItem from="1612456364892" duration="1732000" />
+      <workItem from="1612552900618" duration="535000" />
+      <workItem from="1613086094656" duration="7802000" />
+      <workItem from="1614196165008" duration="910000" />
+      <workItem from="1614436935400" duration="261000" />
+      <workItem from="1614448109709" duration="721000" />
+      <workItem from="1615234698737" duration="459000" />
+      <workItem from="1615327461164" duration="13425000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="892000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="140" y="43" width="1400" height="907" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/arrays/DutchNationalFlag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1615774940978">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser/0.23.1680.974@0.23.1680.974" timestamp="1615774940978" />
+    <state x="689" y="172" key="#xdebugger.evaluate" timestamp="1615933349206">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state x="603" y="223" key="#xdebugger.evaluate/0.23.1680.974@0.23.1680.974" timestamp="1615773401557" />
+    <state x="689" y="172" key="#xdebugger.evaluate/0.23.1920.724@0.23.1920.724" timestamp="1615933349206" />
+    <state x="919" y="226" key="#xdebugger.evaluate/0.23.2560.991@0.23.2560.991" timestamp="1615574929075" />
+    <state width="500" height="466" key="DebuggerActiveHint" timestamp="1611533232157">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="500" height="466" key="DebuggerActiveHint/0.23.1680.974@0.23.1680.974" timestamp="1611533232157" />
+    <state width="1638" height="178" key="GridCell.Tab.0.bottom" timestamp="1615934763030">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="178" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1615775010770" />
+    <state width="1638" height="178" key="GridCell.Tab.0.bottom/0.23.1920.724@0.23.1920.724" timestamp="1615934763030" />
+    <state width="1967" height="178" key="GridCell.Tab.0.bottom/0.23.2560.991@0.23.2560.991" timestamp="1615577784244" />
+    <state width="1638" height="178" key="GridCell.Tab.0.center" timestamp="1615934763029">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="178" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1615775010769" />
+    <state width="1638" height="178" key="GridCell.Tab.0.center/0.23.1920.724@0.23.1920.724" timestamp="1615934763029" />
+    <state width="1967" height="178" key="GridCell.Tab.0.center/0.23.2560.991@0.23.2560.991" timestamp="1615577784243" />
+    <state width="1638" height="178" key="GridCell.Tab.0.left" timestamp="1615934763029">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="178" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1615775010769" />
+    <state width="1638" height="178" key="GridCell.Tab.0.left/0.23.1920.724@0.23.1920.724" timestamp="1615934763029" />
+    <state width="1967" height="178" key="GridCell.Tab.0.left/0.23.2560.991@0.23.2560.991" timestamp="1615577784243" />
+    <state width="1638" height="178" key="GridCell.Tab.0.right" timestamp="1615934763029">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="178" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1615775010770" />
+    <state width="1638" height="178" key="GridCell.Tab.0.right/0.23.1920.724@0.23.1920.724" timestamp="1615934763029" />
+    <state width="1967" height="178" key="GridCell.Tab.0.right/0.23.2560.991@0.23.2560.991" timestamp="1615577784244" />
+    <state width="1638" height="272" key="GridCell.Tab.1.bottom" timestamp="1615934741410">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="197" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1615774828022" />
+    <state width="1638" height="272" key="GridCell.Tab.1.bottom/0.23.1920.724@0.23.1920.724" timestamp="1615934741410" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.2560.991@0.23.2560.991" timestamp="1615574943802" />
+    <state width="1638" height="272" key="GridCell.Tab.1.center" timestamp="1615934741410">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="197" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1615774828021" />
+    <state width="1638" height="272" key="GridCell.Tab.1.center/0.23.1920.724@0.23.1920.724" timestamp="1615934741410" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.2560.991@0.23.2560.991" timestamp="1615574943801" />
+    <state width="1638" height="272" key="GridCell.Tab.1.left" timestamp="1615934741409">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="197" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1615774828020" />
+    <state width="1638" height="272" key="GridCell.Tab.1.left/0.23.1920.724@0.23.1920.724" timestamp="1615934741409" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.2560.991@0.23.2560.991" timestamp="1615574943801" />
+    <state width="1638" height="272" key="GridCell.Tab.1.right" timestamp="1615934741410">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state width="1638" height="197" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1615774828021" />
+    <state width="1638" height="272" key="GridCell.Tab.1.right/0.23.1920.724@0.23.1920.724" timestamp="1615934741410" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.2560.991@0.23.2560.991" timestamp="1615574943802" />
+    <state x="495" y="149" width="689" height="472" key="find.popup" timestamp="1615930079564">
+      <screen x="0" y="23" width="1920" height="724" />
+    </state>
+    <state x="495" y="149" width="689" height="472" key="find.popup/0.23.1920.724@0.23.1920.724" timestamp="1615930079564" />
+    <state x="505" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1611449381426">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="505" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1611449381426" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/AddNumbers.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/AddNumbers.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/AddNumbers.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/AddListNumbers.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/strings/AtoI.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/strings/ValidNumber.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trees/SortedListToBalancedBST.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/HourGlass.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/WinGame.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/WinGame.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
